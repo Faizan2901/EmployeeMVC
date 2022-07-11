@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.faizan.demo.model","l":"Employee"},{"p":"com.faizan.demo.controller","l":"EmployeeController"},{"p":"com.faizan.demo","l":"EmployeeMvcApplication"}];updateSearchResults();
