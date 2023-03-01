@@ -36,7 +36,7 @@ public class EmployeeController {
 	 * @param etech   Take Employee Technology as argument
 	 * @param eadd    Take Employee Address as argument
 	 * @param esal    Take Employee Salary as argument
-	 * @param econ    Take Employee Contack as argument
+	 * @param econ    Take Employee Contact as argument
 	 * @param ses
 	 * @param req
 	 * @return        Return static data which sent by indexhome.jsp and show by show.jsp page
